@@ -1,0 +1,721 @@
+First Name,Last Name,Email Address,Address,City,State,Occupation,County,Zip Code
+Kevin,Esposito,bassessor@gmail.com,"200 South St, PO Box 914",Morristown,NJ,"Tax Assessor, Town of Morristown",Morris,07960
+Michele,Donato,mdonato@micheledonatoesq.com,"106 Grand Central Ave, PO Box 145",Lavallette,NJ,"Municipal Attorney, Allentown Borough",Ocean,08735
+Jeffrey,Heiss,jheiss@warrennj.org,36 Mountain Blvd,Warren,NJ,"Construction Official, Warren Township",Somerset,07059
+Michele,Bobrowski,president@mcanj.us,PO Box 77271,Ewing,NJ,"Municipal Clerk, Alexandria Township",Mercer,08618
+Tracey,Horan,tracey.horan@njcourts.gov,221 South 5th Ave,Highland Park,NJ,Certified Municipal Court Administrator,Middlesex,08904
+Richard,Vigliotti,rvigliotti@oldbridge.com,1 Old Bridge Plaza,Old Bridge,NJ,"Electrical Subcode Official, Old Bridge Twp",Middlesex,08857
+Deanna,Stockton,dstockton@princetonnj.gov,400 Witherspoon St,Princeton,NJ,"Municipal Engineer, Municipality of Princeton",Mercer,08540
+Matt,Laracy,mlaracy@millburntwp.org,375 Millburn Ave,Millburn,NJ,"Finance Officer, Millburn Township",Essex,07041
+Thomas P.,Pizzano II,tpizzano@millburntwp.org,459 Essex St,Millburn,NJ,"Fire Marshal, Millburn Fire Department",Monmouth,07041
+Chris,Merkel,Christopher.Merkel@co.monmouth.nj.us,50 East Main St,Freehold,NJ,"Health Officer, Monmouth County Health Dept",Essex,07728
+Bob,Duthaler,bduthaler@jagonline.org,84 Broad St,Bloomfield,NJ,"Station Manager, WBBM-TV, Bloomfield Township",Mercer,07003
+Kathryn,Monzo,kmonzo@hamiltonnj.com,2090 Greenwood Ave,Hamilton,NJ,"Administrator, Hamilton Township (Mercer)",Passaic,08690
+Thomas “T.C.”,McCourt,president@njpo.org,"31 Mountain Blvd, Suite 1",Warren,NJ,"Zoning Board of Adjustment, Town of Dover",Morris,07059
+Ray,Keeley,president@njpia.org,9 Patriots Trail,Totowa,NJ,"Plumbing Subcode Official, Millburn Township",Camden,07512
+Brian W.,Mason,bwm@masonthompsonlaw.com,50 Nelson St,Dover,NJ,"Municipal Prosecutor, Mount Olive Township",Monmouth,07801
+Harry,Wozunk,hwozunk@runnemedenj.org,"24 N. Black Horse Pike, Suite 1",Runnemede,NJ,"Superintendent of Public Works, Runnemede",Bergen,08078
+Michele,Bado,MBado@hamiltonnj.com; President@gpanj.com,2090 Greenwood Ave,Hamilton,NJ,"Purchasing Agent, Hamilton Township (Mercer)",Ocean,08690
+Ronnie,Quacquarini Jr.,rquacquarini@marlboro-nj.gov,1979 Township Dr,Marlboro,NJ,"Program Coordinator, Marlboro Township",Bergen,07746
+Lynn,Minetti,lminetti@edgewaternj.org,1167 River Rd,Edgewater,NJ,"Registrar, Edgewater Borough",Somerset,07020
+Effie,Pressley,epressley@lakewoodnj.gov,231 3rd St,Lakewood,NJ,"Tax Collector, Lakewood Township",Cumberland,08701
+Genevieve,Kacmarcik,Gkacmarcik@rutherfordboronj.com,176 Park Ave,Rutherford,NJ,"Director of Social Services, Rutherford Borough",Monmouth,07070
+Dominic,Longo,jmccoy@boundbrook-nj.org,230 Hamilton St,Bound Brook,NJ,Mayor,Somerset,08805
+Jasmine D.,McCoy,jmccoy@boundbrook-nj.org,230 Hamilton St,Bound Brook,NJ,Clerk,Somerset,08805
+Erik,Peterson,N/A,230 Hamilton St,Bound Brook,NJ,Legal Adm,Somerset,08805
+Albert B.,Kelly,almanzan@cityofbridgeton.com,181 E Commerce St,Bridgeton,NJ,Mayor,Cumberland,08302
+Nichole,Almanza,almanzan@cityofbridgeton.com,181 E Commerce St,Bridgeton,NJ,Clerk,Cumberland,08302
+Michele,Gibson,N/A,181 E Commerce St,Bridgeton,NJ,Legal Adm,Cumberland,08302
+Kevin,Rabago,N/A,181 E Commerce St,Bridgeton,NJ,Legal Adm,Cumberland,08302
+Larry,Fox,ekostyz@bradleybeachnj.gov,701 Main Street,Bradley Beach,NJ,Mayor,Monmouth,07720
+Erica,Kostyz,ekostyz@bradleybeachnj.gov,701 Main Street,Bradley Beach,NJ,Clerk,Monmouth,07720
+Gregory,Cannon,N/A,701 Main Street,Bradley Beach,NJ,Legal Adm,Monmouth,07720
+Meredith,DeMarco,N/A,701 Main Street,Bradley Beach,NJ,Legal Adm,Monmouth,07720
+Matthew,Moench,bwtclerk@bridgewaternj.gov,100 Commons Way,Bridgewater,NJ,Mayor,Somerset,08807
+Grace W.,Njuguna,bwtclerk@bridgewaternj.gov,100 Commons Way,Bridgewater,NJ,Clerk,Somerset,08807
+Christopher,Corsini,N/A,100 Commons Way,Bridgewater,NJ,Legal Adm,Somerset,08807
+Michael,Pappas,N/A,100 Commons Way,Bridgewater,NJ,Legal Adm,Somerset,08807
+Dominic,Longo,,230 Hamilton St,Bound Brook,NJ,Mayor,Somerset,08805
+Erik,Peterson,,230 Hamilton St,Bound Brook,NJ,Legal Adm,Somerset,08805
+Albert B.,Kelly,,181 E Commerce St,Bridgeton,NJ,Mayor,Cumberland,08302
+Michele,Gibson,,181 E Commerce St,Bridgeton,NJ,Legal Adm,Cumberland,08302
+Kevin,Rabago,,181 E Commerce St,Bridgeton,NJ,Other,Cumberland,08302
+Larry,Fox,,701 Main Street,Bradley Beach,NJ,Mayor,Monmouth,07720
+Gregory,Cannon,,701 Main Street,Bradley Beach,NJ,Legal Adm,Monmouth,07720
+Meredith,DeMarco,,701 Main Street,Bradley Beach,NJ,Other,Monmouth,07720
+Matthew,Moench,,100 Commons Way,Bridgewater,NJ,Mayor,Somerset,08807
+Christopher,Corsini,,100 Commons Way,Bridgewater,NJ,Legal Adm,Somerset,08807
+Michael,Pappas,,100 Commons Way,Bridgewater,NJ,Other,Somerset,08807
+Anna,Columbus,-,1077 US Highway 202,Branchburg,NJ,Mayor,Somerset,08876
+Maggie,Schmitt,maggie.schmitt@branchburg.nj.us,1077 US Highway 202,Branchburg,NJ,Clerk,Somerset,08876
+William,Willard,-,1077 US Highway 202,Branchburg,NJ,Legal Adm,Somerset,08876
+Gregory J.,Bonin,-,1077 US Highway 202,Branchburg,NJ,Admin,Monmouth,08876
+Frank,Garruzzo,-,601 Union Lane,Brielle,NJ,Mayor,Monmouth,08730
+Carol,Baran,cbaran@brielleboro.com,601 Union Lane,Brielle,NJ,Clerk,Monmouth,08730
+Nicholas C.,Montenegro,-,601 Union Lane,Brielle,NJ,Legal Adm,Sussex,08730
+Thomas F.,Nolan,-,601 Union Lane,Brielle,NJ,Admin,Sussex,08730
+Anthony P.,Frato,-,34 Wantage Avenue,Branchville,NJ,Mayor,Sussex,07826
+Kathryn,Leissler,branchvilleclerk@yahoo.com,34 Wantage Avenue,Branchville,NJ,Clerk,Sussex,07826
+M. Richard,Valenti,-,34 Wantage Avenue,Branchville,NJ,Legal Adm,Atlantic,07826
+Kate,Leissler,-,34 Wantage Avenue,Branchville,NJ,Admin,Atlantic,07826
+Vince,Sera,-,1417 W Brigantine Ave,Brigantine,NJ,Mayor,Atlantic,08203
+Lynn,Sweeney,lsweeney@brigantinebeachnj.com,1417 W Brigantine Ave,Brigantine,NJ,Clerk,Atlantic,08203
+George,Morris,-,1417 W Brigantine Ave,Brigantine,NJ,Legal Mgr,Burlington,08203
+Tige,Platt,-,1417 W Brigantine Ave,Brigantine,NJ,Admin,Burlington,08203
+Paul,Somers,-,155 Main Street,Burlington,NJ,Mayor,Burlington,08016
+Brittney,Kates,bkates@burlingtonnj.us,155 Main Street,Burlington,NJ,Clerk,Burlington,08016
+Thomas,Coleman,-,155 Main Street,Burlington,NJ,Legal Adm,Union,08016
+David,Ballard,-,155 Main Street,Burlington,NJ,Admin,Union,08016
+Raymond,Giacobbe,-,218 Irvington Avenue,Rahway,NJ,Mayor,Union,07065
+Cathleen,Boccella,cboccella@cityofrahway.com,218 Irvington Avenue,Rahway,NJ,Clerk,Union,07065
+Frank,Regan,-,218 Irvington Avenue,Rahway,NJ,Legal Adm,Hudson,07065
+Robert,Landolfi,-,218 Irvington Avenue,Rahway,NJ,Admin,Hudson,07065
+Stephen,Fulop,-,280 Grove Street,Jersey City,NJ,Mayor,Hudson,07302
+Sean,Gallagher,sgallagher@jcnj.org,280 Grove Street,Jersey City,NJ,Clerk,Hudson,07302
+Peter,Baker,-,280 Grove Street,Jersey City,NJ,Legal Adm,Monmouth,07302
+Brian,Platt,-,280 Grove Street,Jersey City,NJ,Admin,Monmouth,07302
+John,Pallone,-,344 Broadway,Long Branch,NJ,Mayor,Monmouth,07740
+Karen,Bowden,kbowden@longbranch.org,344 Broadway,Long Branch,NJ,Clerk,Monmouth,07740
+Martin,McGreevey,-,344 Broadway,Long Branch,NJ,Legal Adm,Somerset,07740
+Kevin,Hayes,-,344 Broadway,Long Branch,NJ,Admin,Somerset,07740
+Mark,Szegeti,-,475 DeMott Lane,Franklin,NJ,Mayor,Somerset,07416
+AnnMarie,McCarthy,amccarthy@franklintwpnj.org,475 DeMott Lane,Franklin,NJ,Clerk,Somerset,07416
+William,Cooper,-,475 DeMott Lane,Franklin,NJ,Legal Adm,Middlesex,07416
+Robert,Vornlocker,-,475 DeMott Lane,Franklin,NJ,Admin,Middlesex,07416
+John,E. McCormac,-,1 Main Street,Woodbridge,NJ,Mayor,Middlesex,07095
+John,Mitch,jmitch@twp.woodbridge.nj.us,1 Main Street,Woodbridge,NJ,Clerk,Middlesex,07095
+Steven,Nanton,-,1 Main Street,Woodbridge,NJ,Legal Adm,Bergen,07095
+Dennis,Henry,-,1 Main Street,Woodbridge,NJ,Admin,Bergen,07095
+Robert,Colletti,N/A,182 Market St,Elmwood Park,NJ,Mayor,Bergen,07407
+Shanee,Morris,smorris@elmwoodparknj.us,182 Market St,Elmwood Park,NJ,Clerk,Bergen,07407
+Arthur,Thibault Jr.,N/A,182 Market St,Elmwood Park,NJ,Legal Adm,Monmouth,07407
+Michael,Foligno,N/A,182 Market St,Elmwood Park,NJ,N/A,Monmouth,07407
+Daniel,Francisco,N/A,15 Main St,Englishtown,NJ,Mayor,Monmouth,07726
+Kerry,Killeen,clerk@englishtownnj.com,15 Main St,Englishtown,NJ,Clerk,Salem,07726
+Jonathan,Cohen,N/A,15 Main St,Englishtown,NJ,Legal Adm,Salem,07726
+Sean,Elwell,N/A,619 Salem-Ft. Elfsborg Rd,Salem,NJ,Mayor,Salem,08079
+Marty R.,Uzdanovics,muclerk@elsinborotownship.com,619 Salem-Ft. Elfsborg Rd,Salem,NJ,Clerk,Essex,08079
+N/A,Vigilante Law Firm,N/A,619 Salem-Ft. Elfsborg Rd,Salem,NJ,Legal,Essex,08079
+Edward A.,Davis,N/A,255 Roseland Ave,Essex Fells,NJ,Mayor,Essex,07021
+Francine,Paserchia,administrator@essexfellsboro.com,255 Roseland Ave,Essex Fells,NJ,Clerk,Bergen,07021
+Robert H.,Oostdyk Jr.,N/A,255 Roseland Ave,Essex Fells,NJ,Legal Adm,Bergen,07021
+Danielle,DiPaola,N/A,1 Municipal Place,Emerson,NJ,Mayor,Bergen,07630
+Michelle,Ryan,clerk@emersonnj.org,1 Municipal Place,Emerson,NJ,Clerk,Bergen,07630
+John,McCann,N/A,1 Municipal Place,Emerson,NJ,Legal Adm,Atlantic,07630
+Robert,Hermansen,N/A,1 Municipal Place,Emerson,NJ,N/A,Atlantic,07630
+Elizabeth,Owen,N/A,148 Cumberland Ave,Estell Manor,NJ,Mayor,Atlantic,08319
+Lisa,Marcolongo,cityclerk@estellmanor.org,148 Cumberland Ave,Estell Manor,NJ,Clerk,Monmouth,08319
+Randolph,Lafferty,N/A,148 Cumberland Ave,Estell Manor,NJ,Legal,Monmouth,08319
+Carl,Huisman,N/A,700 Blvd,Sea Girt,NJ,Mayor,Monmouth,08750
+Kevin,McCarthy,clerk@seagirtboro.com,700 Blvd,Sea Girt,NJ,Clerk,Monmouth,08750
+Roger,McLaughlin,N/A,700 Blvd,Sea Girt,NJ,Legal,Monmouth,08750
+John,Peterson,N/A,800 Main St,Belmar,NJ,Mayor,Monmouth,07719
+April,Claudio,clerk@belmar.com,800 Main St,Belmar,NJ,Clerk,Monmouth,07719
+Kevin,Kennedy,N/A,800 Main St,Belmar,NJ,Legal,Monmouth,07719
+John,Pallone,N/A,344 Broadway,Long Branch,NJ,Mayor,Monmouth,07740
+Mary Jane,Celli,clerk@longbranch.org,344 Broadway,Long Branch,NJ,Clerk,Ocean,07740
+Louis,Rainone,N/A,344 Broadway,Long Branch,NJ,Legal,Ocean,07740
+Mark,Walsifer,N/A,601 Main St,Avon-By-The-Sea,NJ,Mayor,Ocean,07717
+Beth,Lelie,clerk@avonbytheseanj.com,601 Main St,Avon-By-The-Sea,NJ,Clerk,Ocean,07717
+William,Caruso,N/A,601 Main St,Avon-By-The-Sea,NJ,Legal,Ocean,07717
+John,Ducey,N/A,401 Chambers Bridge Rd,Brick Township,NJ,Mayor,Ocean,08723
+Lynnette,Iannarone,clerk@bricktownship.net,401 Chambers Bridge Rd,Brick Township,NJ,Clerk,Monmouth,08723
+Kevin,Starkey,N/A,401 Chambers Bridge Rd,Brick Township,NJ,Legal,Monmouth,08723
+Carmen,Amato Jr.,N/A,399 Monmouth St,Lakewood,NJ,Mayor,Monmouth,08701
+Bernadette,Dugan,clerk@lakewoodnj.gov,399 Monmouth St,Lakewood,NJ,Clerk,Union,08701
+Steven,Secare,N/A,399 Monmouth St,Lakewood,NJ,Legal,Union,08701
+Tony,Perry,N/A,1 Kings Highway,Middletown,NJ,Mayor,Union,07748
+Amy,Kratz,clerk@middletownnj.org,1 Kings Highway,Middletown,NJ,Clerk,Monmouth,07748
+Brian,Nelson,N/A,1 Kings Highway,Middletown,NJ,Legal,Monmouth,07748
+Raymond,Giacobbe,N/A,830 Main St,Rahway,NJ,Mayor,Hudson,07065
+Cindy,Solomon,clerk@cityofrahway.com,830 Main St,Rahway,NJ,Clerk,Hudson,07065
+Michael,Baker,N/A,830 Main St,Rahway,NJ,Legal,Hudson,07065
+Kathy,Schmelz,clerk@longbranch.org,344 Broadway,Long Branch,NJ,Clerk,Ocean,07740
+James,Gorman,N/A,344 Broadway,Long Branch,NJ,Legal,Ocean,07740
+Richard,Turner,N/A,428 60th St,West New York,NJ,Mayor,Ocean,07093
+Carmela,Ricci,clerk@westnewyorknj.org,428 60th St,West New York,NJ,Clerk,Mercer,07093
+Stephen,Klein,N/A,428 60th St,West New York,NJ,Legal,Mercer,07093
+John,Ducey,N/A,401 Chambers Bridge Rd,Brick,NJ,Mayor,Mercer,08723
+Lynn,Haines,clerk@bricktownship.net,401 Chambers Bridge Rd,Brick,NJ,Clerk,Hudson,08723
+William,Adams,N/A,401 Chambers Bridge Rd,Brick,NJ,Legal,Hudson,08723
+Reed,Gusciora,N/A,319 East State St,Trenton,NJ,Mayor,Hudson,08608
+Dwayne,Harris,clerk@trentonnj.org,319 East State St,Trenton,NJ,Clerk,Passaic,08608
+Ronald,Thompson,N/A,319 East State St,Trenton,NJ,Legal,Passaic,08608
+Steve,Fulop,N/A,280 Grove St,Jersey City,NJ,Mayor,Passaic,07302
+Sean,Gallagher,clerk@jcnj.org,280 Grove St,Jersey City,NJ,Clerk,Essex,07302
+Peter,Baker,N/A,280 Grove St,Jersey City,NJ,Legal,Essex,07302
+Andre,Sayegh,N/A,155 Market St,Paterson,NJ,Mayor,Essex,07501
+Sonia,Gordon,clerk@patersonnj.gov,155 Market St,Paterson,NJ,Clerk,Union,07501
+Thomas,Carter,N/A,155 Market St,Paterson,NJ,Legal,Union,07501
+Ras,Baraka,N/A,920 Broad St,Newark,NJ,Mayor,Union,07102
+Kenneth,Louis,clerk@newarknj.gov,920 Broad St,Newark,NJ,Clerk,Union,07102
+Albert,Davis,N/A,920 Broad St,Newark,NJ,Legal,Union,07102
+Adrian,Mapp,N/A,515 Watchung Ave,Plainfield,NJ,Mayor,Union,07060
+Abubakar,Jalloh,clerk@plainfieldnj.gov,515 Watchung Ave,Plainfield,NJ,Clerk,Middlesex,07060
+Charles,Mitchell,N/A,515 Watchung Ave,Plainfield,NJ,Legal,Middlesex,07060
+Shelley,Brindle,N/A,425 East Broad St,Westfield,NJ,Mayor,Middlesex,07090
+Jennifer,O'Donnell,clerk@westfieldnj.gov,425 East Broad St,Westfield,NJ,Clerk,Ocean,07090
+Christopher,White,N/A,425 East Broad St,Westfield,NJ,Legal,Ocean,07090
+Wilda,Diaz,N/A,260 High St,Perth Amboy,NJ,Mayor,Ocean,08861
+Martha,O'Neill,clerk@perthamboynj.org,260 High St,Perth Amboy,NJ,Clerk,Camden,08861
+Daniel,Scott,N/A,260 High St,Perth Amboy,NJ,Legal,Camden,08861
+Jennifer,Best,jbest@twp.berkeley.nj.us,627 Pinewald-Keswick Road,Bayville,NJ,Municipal Clerk,Ocean,08721
+Jennifer,Schott,jschott@twp.berkeley.nj.us,627 Pinewald-Keswick Road,Bayville,NJ,Deputy Municipal Clerk,Ocean,08721
+Maria,LaGuercia,mlaguercia@twp.berkeley.nj.us,627 Pinewald-Keswick Road,Bayville,NJ,Deputy Municipal Clerk,Ocean,08721
+Lillian,Montuoro,clerk@twp.berlin.nj.us,135 Route 73,West Berlin,NJ,Municipal Clerk,Camden,08091
+Madeline,Sayasane,clerk@berlinnj.org,59 South White Horse Pike,Berlin,NJ,Municipal Clerk,Camden,08009
+Kelly,McCracken,kmccracken@burlington.nj.us,525 High Street,Burlington,NJ,Municipal Clerk,Burlington,08016
+Kathy,Hoffman,khoffman@carteret.net,61 Cooke Avenue,Carteret,NJ,Municipal Clerk,Middlesex,07008
+Kelly,Rachynski,krachynski@cinnaminsonnj.org,1621 Riverton Road,Cinnaminson,NJ,Municipal Clerk,Burlington,08077
+Tara,Murphy,tmurphy@claytonnj.com,125 North Delsea Drive,Clayton,NJ,Municipal Clerk,Gloucester,08312
+Nancy,Biehl,nbiehl@townshipofclinton.com,"1225 Route 31 South, Suite 411",Lebanon,NJ,Municipal Clerk,Hunterdon,08833
+Mary,Foley,mfoley@closterboro.com,295 Closter Dock Road,Closter,NJ,Municipal Clerk,Bergen,07624
+James,White,jwhite@townshipofhamilton.com,6101 Thirteenth Street,Mays Landing,NJ,Municipal Clerk,Atlantic,08330
+Kevin,Byrnes,kbyrnes@hightstownborough.com,156 Bank Street,Hightstown,NJ,Municipal Clerk,Mercer,08520
+Loretta,Colletti,lcolletti@hillsdalenj.org,380 Hillsdale Avenue,Hillsdale,NJ,Municipal Clerk,Bergen,07642
+Vanessa,Llera,vllera@hobokennj.gov,94 Washington Street,Hoboken,NJ,Municipal Clerk,Hudson,07030
+Jane,McCarthy,jmccarthy@hollistownship.org,1480 Union Valley Road,West Milford,NJ,Municipal Clerk,Passaic,07480
+April,Centonze,acentonze@townshipofmonroe.org,125 Virginia Avenue,Williamstown,NJ,Municipal Clerk,Gloucester,08094
+Rena,Dunmore,rdunmore@mountolivetwpnj.org,204 Flanders-Drakestown Road,Mount Olive,NJ,Municipal Clerk,Morris,07828
+Betsy,Barone,bbarone@cityoforange.org,29 North Day Street,Orange,NJ,Municipal Clerk,Essex,07050
+Patricia,Rogan,progan@pennsauken.gov,5605 North Crescent Blvd.,Pennsauken,NJ,Municipal Clerk,Camden,08110
+Lauren,Turi,lturi@perthamboynj.org,260 High Street,Perth Amboy,NJ,Municipal Clerk,Middlesex,08861
+Maria,Anderson,manderson@ramseynj.com,33 North Central Avenue,Ramsey,NJ,Municipal Clerk,Bergen,07446
+Donna,Mance,dmance@ridgewoodnj.net,131 North Maple Avenue,Ridgewood,NJ,Municipal Clerk,Bergen,07450
+Jennifer,Knierim,jknierim@rutherfordboronj.com,176 Park Avenue,Rutherford,NJ,Municipal Clerk,Bergen,07070
+Janice,Mironov,jmironov@eastwindsor.nj.us,16 Lanning Boulevard,East Windsor,NJ,Municipal Clerk,Mercer,08520
+Linda,O’Brien,lobrien@scotchplainsnj.com,430 Park Avenue,Scotch Plains,NJ,Municipal Clerk,Union,07076
+John,Mitch,jmitch@cityofsouthamboy.com,140 North Broadway,South Amboy,NJ,Municipal Clerk,Middlesex,08879
+Debra,Brooks,dbrooks@townshipofunion.com,1976 Morris Avenue,Union,NJ,Municipal Clerk,Union,07083
+Matthew,Watkins,mwatkins@cityofvineland.org,640 East Wood Street,Vineland,NJ,Municipal Clerk,Cumberland,08360
+Margaret,Walker,mwalker@willingborotwp.org,1 Rev. Dr. Martin Luther King Jr. Drive,Willingboro,NJ,Municipal Clerk,Burlington,08046
+Rocco,Impreveduto,,4 Crawfords Corner Road,Holmdel,NJ,Mayor,Monmouth,07733
+Wendy,Patrovich,wpatrovich@holmdeltownship.com,4 Crawfords Corner Road,Holmdel,NJ,Clerk,Monmouth,07733
+Michael,Collins,,4 Crawfords Corner Road,Holmdel,NJ,Legal,Monmouth,07733
+Jay,DeLaney,,4 Crawfords Corner Road,Holmdel,NJ,Admin,Monmouth,07733
+Marie,Galate,,111 River Styx Road,Hopatcong,NJ,Clerk,Sussex,07843
+Valerie,Egan,vegan@hopatcong.org,111 River Styx Road,Hopatcong,NJ,Legal,Sussex,07843
+John,Ursin,,111 River Styx Road,Hopatcong,NJ,Admin,Sussex,07843
+Courtney,Peters-Manning,,201 Washington Crossing-Pennington Road,Titusville,NJ,Mayor,Mercer,08560
+Diane,Festino,dfestino@twp.howell.nj.us,"4567 Route 9 N, 2nd Floor",Howell,NJ,Clerk,Monmouth,07731
+Caitlin,Harney,,"4567 Route 9 N, 2nd Floor",Howell,NJ,Legal,Monmouth,07731
+Joseph,Clark,,"4567 Route 9 N, 2nd Floor",Howell,NJ,Admin,Monmouth,07731
+Timothy,McDonough,,"407 Hope Great Meadows Road, PO Box 284",Hope,NJ,Mayor,Warren,07844
+Robin,Keggan,townclerk@hopetwp-nj.us,"407 Hope Great Meadows Road, PO Box 284",Hope,NJ,Clerk,Warren,07844
+Michael,Selvaggi,,"407 Hope Great Meadows Road, PO Box 284",Hope,NJ,Legal,Warren,07844
+Robert,Giordano,,"286B Route 46, PO Box 164",Great Meadows,NJ,Mayor,Warren,07838
+Dena,Hrebenak,dhrebenak@independencenj.com,"286B Route 46, PO Box 164",Great Meadows,NJ,Clerk,Warren,07838
+Regina,Toth,regina.toth@hopewellboro-nj.us,88 East Broad Street,Hopewell,NJ,Clerk,Mercer,08525
+Lisa,Maddox,,88 East Broad Street,Hopewell,NJ,Legal,Mercer,08525
+Doug,Walker,,88 East Broad Street,Hopewell,NJ,Admin,Mercer,08525
+Jeannette,Pace,clerk@hopewelltwp-nj.com,590 Shiloh Pike,Bridgeton,NJ,Clerk,Cumberland,08302
+Matthew,Ritter,,590 Shiloh Pike,Bridgeton,NJ,Legal,Cumberland,08302
+John,Hitchner,,590 Shiloh Pike,Bridgeton,NJ,Admin,Cumberland,08302
+Lori,Reibrich,lreibrich@interlakenboro.com,100 Grasmere Avenue,Interlaken,NJ,Clerk,Monmouth,07712
+Richard,Shaklee,,100 Grasmere Avenue,Interlaken,NJ,Legal,Monmouth,07712
+Anthony,Vauss,,Civic Square,Irvington,NJ,Mayor,Essex,07111
+Shawna,Supel,ssupel@irvingtonnj.org,Civic Square,Irvington,NJ,Clerk,Essex,07111
+Ramon,Rivera,,Civic Square,Irvington,NJ,Legal,Essex,07111
+Musa,Malik,,Civic Square,Irvington,NJ,Admin,Essex,07111
+E. Steven,Doyle,,1 East End Avenue,Island Heights,NJ,Mayor,Ocean,08732
+Sean,Asay,boroughclerk@islandheightsborough.gov,1 East End Avenue,Island Heights,NJ,Clerk,Ocean,08732
+Steven,Zabarsky,,1 East End Avenue,Island Heights,NJ,Legal,Ocean,08732
+Michael,Reina,,95 W Veterans Highway,Jackson,NJ,Mayor,Ocean,08527
+Mary,Moss,mmoss@jacksontwpnj.net,95 W Veterans Highway,Jackson,NJ,Clerk,Ocean,08527
+Greg,McGuckin,,95 W Veterans Highway,Jackson,NJ,Legal,Ocean,08527
+Terence,Wall,,701 Lower Main Street,Aberdeen,NJ,Mayor,Monmouth,07747
+Mindy,O’Donnell,modonnell@aberdeennj.org,701 Lower Main Street,Aberdeen,NJ,Clerk,Monmouth,07747
+Sean,Byrnes,,701 Lower Main Street,Aberdeen,NJ,Legal,Monmouth,07747
+Paul,Hodson,,50 Court Street,Flemington,NJ,Mayor,Hunterdon,08822
+Anita,Moen,amoen@flemingtonnj.gov,50 Court Street,Flemington,NJ,Clerk,Hunterdon,08822
+Jonathan,Busch,,50 Court Street,Flemington,NJ,Legal,Hunterdon,08822
+Dave,Fried,,1 Municipal Plaza,Robbinsville,NJ,Mayor,Mercer,08691
+Michele,Seig,mseig@robbinsville.net,1 Municipal Plaza,Robbinsville,NJ,Clerk,Mercer,08691
+John,Lanza,,1 Municipal Plaza,Robbinsville,NJ,Legal,Mercer,08691
+David,Fried,clerk@robbinsville.net,Rocky Hill Borough,Rocky Hill,NJ,Mayor,Somerset,08553
+Michele,Seigfried,clerk@robbinsville.net,Rocky Hill Borough,Rocky Hill,NJ,Clerk,Somerset,08553
+Bruce,Darvas,N/A,Rocky Hill Borough,Rocky Hill,NJ,Legal,Somerset,08553
+Robert,Uhrik,clerk@rockyhill-nj.gov,Rocky Hill Borough,Rocky Hill,NJ,Mayor,Somerset,08553
+Rebecca,Newman,clerk@rockyhill-nj.gov,Rocky Hill Borough,Rocky Hill,NJ,Clerk,Somerset,08553
+Steven,Warner,N/A,Rocky Hill Borough,Rocky Hill,NJ,Legal,Somerset,08553
+Peggy,Malkin,clerk@rooseveltnj.us,Roosevelt Borough,Roosevelt,NJ,Mayor,Monmouth,08555
+Kathleen,Hart,clerk@rooseveltnj.us,Roosevelt Borough,Roosevelt,NJ,Clerk,Monmouth,08555
+Gregory,Cannon,N/A,Roosevelt Borough,Roosevelt,NJ,Legal,Monmouth,08555
+Joseph,K. Hemphill,trogers@rumsonnj.gov,Rumson Borough,Rumson,NJ,Mayor,Monmouth,07760
+Thomas,S. Rogers,trogers@rumsonnj.gov,Rumson Borough,Rumson,NJ,Clerk,Monmouth,07760
+Mitchell,Jacobs,N/A,Rumson Borough,Rumson,NJ,Legal,Monmouth,07760
+James,Spango,jwatkins@roselandnj.org,Roseland Borough,Roseland,NJ,Mayor,Essex,07068
+Jock,Watkins,jwatkins@roselandnj.org,Roseland Borough,Roseland,NJ,Clerk,Essex,07068
+Elnardo,Webster,N/A,Roseland Borough,Roseland,NJ,Legal,Essex,07068
+Nick,Kappatos,jpinto@runnemedenj.org,Runnemede Borough,Runnemede,NJ,Mayor,Camden,08078
+Joyce,Pinto,jpinto@runnemedenj.org,Runnemede Borough,Runnemede,NJ,Clerk,Camden,08078
+Daniel,Long,N/A,Runnemede Borough,Runnemede,NJ,Legal,Camden,08078
+Donald,Shaw,lsanchez@boroughofroselle.com,Roselle Borough,Roselle,NJ,Mayor,Union,07203
+Lisette,Sanchez,lsanchez@boroughofroselle.com,Roselle Borough,Roselle,NJ,Clerk,Union,07203
+Mohamed,Jalloh,N/A,Roselle Borough,Roselle,NJ,Legal,Union,07203
+Frank,Nunziato,mscanlon@rutherfordboronj.com,Rutherford Borough,Rutherford,NJ,Mayor,Bergen,07070
+Margaret,M. Scanlon,mscanlon@rutherfordboronj.com,Rutherford Borough,Rutherford,NJ,Clerk,Bergen,07070
+Robert,Ferraro,N/A,Rutherford Borough,Rutherford,NJ,Legal,Bergen,07070
+Joseph,Signorello III,acasais@rosellepark.net,Roselle Park Borough,Roselle Park,NJ,Mayor,Union,07204
+Andrew,J. Casais,acasais@rosellepark.net,Roselle Park Borough,Roselle Park,NJ,Clerk,Union,07204
+Joseph,DeMarco,N/A,Roselle Park Borough,Roselle Park,NJ,Legal,Union,07204
+Robert,D. White,plodico@saddlebrooknj.gov,Saddle Brook Township,Saddle Brook,NJ,Mayor,Bergen,07663
+Peter,Lo Dico,plodico@saddlebrooknj.gov,Saddle Brook Township,Saddle Brook,NJ,Clerk,Bergen,07663
+John,Schettino,N/A,Saddle Brook Township,Saddle Brook,NJ,Legal,Bergen,07663
+Jacqueline,Albrecht,rheada@roxburynj.us,Roxbury Township,Ledgewood,NJ,Mayor,Morris,07852
+Amy,Rhead,rheada@roxburynj.us,Roxbury Township,Ledgewood,NJ,Clerk,Morris,07852
+Anthony,M. Bucco,N/A,Roxbury Township,Ledgewood,NJ,Legal,Morris,07852
+Albert,J. Kurpis,ckirkpatrick@saddleriver.org,Saddle River Borough,Saddle River,NJ,Mayor,Bergen,07458
+Cindy,Kirkpatrick,ckirkpatrick@saddleriver.org,Saddle River Borough,Saddle River,NJ,Clerk,Bergen,07458
+Russell,Huntington,N/A,Saddle River Borough,Saddle River,NJ,Legal,Bergen,07458
+Jody,Veler,cityadmin@cityofsalemnj.gov,Salem City,Salem,NJ,Mayor,Salem,08079
+Ben,Angeli,cityadmin@cityofsalemnj.gov,Salem City,Salem,NJ,Clerk,Salem,08079
+Nicholas,Ranieri,N/A,Salem City,Salem,NJ,Legal,Salem,08079
+Donald,E. Fetzer,dharriman@seagirtboro.com,Sea Girt Borough,Sea Girt,NJ,Mayor,Monmouth,08750
+Dawn,Harriman,dharriman@seagirtboro.com,Sea Girt Borough,Sea Girt,NJ,Clerk,Monmouth,08750
+Raymond,Bogan,N/A,Sea Girt Borough,Sea Girt,NJ,Legal,Monmouth,08750
+George,B. Harper Jr.,clerk@sandystontownship.com,Sandyston Township,Sandyston,NJ,Mayor,Sussex,07857
+Amanda “Amy”,Lobban,clerk@sandystontownship.com,Sandyston Township,Sandyston,NJ,Clerk,Sussex,07857
+Michael,J. Hanifan,N/A,Sandyston Township,Sandyston,NJ,Legal,Sussex,07857
+Leonard,C. Desiderio,sromano@seaislecitynj.us,Sea Isle City,Sea Isle City,NJ,Mayor,Cape May,08243
+Shannon,Romano,sromano@seaislecitynj.us,Sea Isle City,Sea Isle City,NJ,Clerk,Cape May,08243
+Paul,Baldini,N/A,Sea Isle City,Sea Isle City,NJ,Legal,Cape May,08243
+Kennedy,O’Brien,jessica@sayreville.com,Sayreville Borough,Sayreville,NJ,Mayor,Middlesex,08872
+Jessica,Morelos,jessica@sayreville.com,Sayreville Borough,Sayreville,NJ,Clerk,Middlesex,08872
+Matthew,Moench,N/A,Sayreville Borough,Sayreville,NJ,Legal,Middlesex,08872
+John,A. Peterson Jr.,smartin@seasideparknj.org,Seaside Park Borough,Seaside Park,NJ,Mayor,Ocean,08752
+Sandra,F. Martin,smartin@seasideparknj.org,Seaside Park Borough,Seaside Park,NJ,Clerk,Ocean,08752
+Steven,A. Zabarsky,N/A,Seaside Park Borough,Seaside Park,NJ,Legal,Ocean,08752
+Joshua,Losardo,blacina@scotchplainsnj.com,Scotch Plains Township,Scotch Plains,NJ,Mayor,Union,07076
+Bozena,Lacina,blacina@scotchplainsnj.com,Scotch Plains Township,Scotch Plains,NJ,Clerk,Union,07076
+David,Minchello,N/A,Scotch Plains Township,Scotch Plains,NJ,Legal,Union,07076
+Brian,P. Kelly,cpfeiffer@seabrightnj.org,Sea Bright Borough,Sea Bright,NJ,Mayor,Monmouth,07760
+Christine,Pfeiffer,cpfeiffer@seabrightnj.org,Sea Bright Borough,Sea Bright,NJ,Clerk,Monmouth,07760
+Roger,J. McLaughlin,N/A,Sea Bright Borough,Sea Bright,NJ,Legal,Monmouth,07760
+Michael,Gonnelli,mmarra@secaucus.net,Secaucus Town,Secaucus,NJ,Mayor,Hudson,07094
+Michael,Marra,mmarra@secaucus.net,Secaucus Town,Secaucus,NJ,Clerk,Hudson,07094
+Keri,Eglentowicz,N/A,Secaucus Town,Secaucus,NJ,Legal,Hudson,07094
+Michael,DiCroce,sonorato@shamong.net,Shamong Township,Shamong,NJ,Mayor,Burlington,08088
+Susan,D. Onorato,sonorato@shamong.net,Shamong Township,Shamong,NJ,Clerk,Burlington,08088
+Douglas,L. Heinold,N/A,Shamong Township,Shamong,NJ,Legal,Burlington,08088
+George,Badey,mmiller@somerdale-nj.com,Somerdale Borough,Somerdale,NJ,Mayor,Camden,08083
+Michele,Miller,mmiller@somerdale-nj.com,Somerdale Borough,Somerdale,NJ,Clerk,Camden,08083
+John,Kearney,N/A,Somerdale Borough,Somerdale,NJ,Legal,Camden,08083
+Brad,Campbell,clerk@shilohborough.com,Shiloh Borough,Shiloh,NJ,Mayor,Cumberland,08333
+Ronald,L. Campbell Sr.,clerk@shilohborough.com,Shiloh Borough,Shiloh,NJ,Clerk,Cumberland,08333
+Dennis,Tapp,Lsamuelsen@spgov.org,Somers Point City,Somers Point,NJ,Mayor,Atlantic,08232
+Lucy,R. Samuelsen,Lsamuelsen@spgov.org,Somers Point City,Somers Point,NJ,Clerk,Atlantic,08232
+Thomas,Smith,N/A,Somers Point City,Somers Point,NJ,Legal,Atlantic,08232
+William,Huelsenbeck,kdeboer@shipbottom.org,Ship Bottom Borough,Ship Bottom,NJ,Mayor,Ocean,08050
+Kristy,DeBoer,kdeboer@shipbottom.org,Ship Bottom Borough,Ship Bottom,NJ,Clerk,Ocean,08050
+Tennant,Magee,N/A,Ship Bottom Borough,Ship Bottom,NJ,Legal,Ocean,08050
+Brian,Gallagher,ksluka@somervillenj.org,Somerville Borough,Somerville,NJ,Mayor,Somerset,08876
+Kevin,Sluka,ksluka@somervillenj.org,Somerville Borough,Somerville,NJ,Clerk,Somerset,08876
+Jeremy,Solomon,N/A,Somerville Borough,Somerville,NJ,Legal,Somerset,08876
+Kim,Doran Eulner,kquinn@shrewsburyboro.com,Shrewsbury Borough,Shrewsbury,NJ,Mayor,Monmouth,07702
+Kerry,Quinn,kquinn@shrewsburyboro.com,Shrewsbury Borough,Shrewsbury,NJ,Clerk,Monmouth,07702
+Bruce,Padula,N/A,Shrewsbury Borough,Shrewsbury,NJ,Legal,Monmouth,07702
+Fred,A. Henry,brooksd@southamboynj.gov,South Amboy City,South Amboy,NJ,Mayor,Middlesex,08879
+Deborah,Brooks,brooksd@southamboynj.gov,South Amboy City,South Amboy,NJ,Clerk,Middlesex,08879
+Francis,Womack,N/A,South Amboy City,South Amboy,NJ,Legal,Middlesex,08879
+Lester,Jennings,kthornton@townshipofshrewsbury.com,Shrewsbury Township,Shrewsbury Twp,NJ,Mayor,Monmouth,07753
+Katrina,Thornton,kthornton@townshipofshrewsbury.com,Shrewsbury Township,Shrewsbury Twp,NJ,Clerk,Monmouth,07753
+Gene,Anthony,N/A,Shrewsbury Township,Shrewsbury Twp,NJ,Legal,Monmouth,07753
+Caryl (Chris),Shoffner,cfischer@southboundbrook.com,South Bound Brook Borough,South Bound Brook,NJ,Mayor,Somerset,08805
+Christina,Fischer,cfischer@southboundbrook.com,South Bound Brook Borough,South Bound Brook,NJ,Clerk,Somerset,08805
+Bob,Smith & Associates,N/A,South Bound Brook Borough,South Bound Brook,NJ,Legal,Somerset,08805
+Charles,Carley,bnyitrai@sbtnj.net,South Brunswick Township,Monmouth Junction,NJ,Mayor,Middlesex,08852
+Barbara,Nyitrai,bnyitrai@sbtnj.net,South Brunswick Township,Monmouth Junction,NJ,Clerk,Middlesex,08852
+Mac,Womack,N/A,South Brunswick Township,Monmouth Junction,NJ,Legal,Middlesex,08852
+Peter,S. Guindi,ahager@southrivernj.org,South River Borough,South River,NJ,Mayor,Middlesex,08882
+Alyssa,Hager,ahager@southrivernj.org,South River Borough,South River,NJ,Clerk,Middlesex,08882
+Andrea,Wyatt,N/A,South River Borough,South River,NJ,Legal,Middlesex,08882
+Yris,Encarnacion,municipalclerk@southhackensacknj.org,South Hackensack Township,South Hackensack,NJ,Mayor,Bergen,07606
+Donna,Linda Gambutti,municipalclerk@southhackensacknj.org,South Hackensack Township,South Hackensack,NJ,Clerk,Bergen,07606
+John,Schettino,N/A,South Hackensack Township,South Hackensack,NJ,Legal,Bergen,07606
+Joseph,Marino,lkranz@southharrison-nj.org,South Harrison Township,Mullica Hill,NJ,Mayor,Gloucester,08062
+Lindsey,Kranz,lkranz@southharrison-nj.org,South Harrison Township,Mullica Hill,NJ,Clerk,Gloucester,08062
+Brian,D. Lozuke,N/A,South Harrison Township,Mullica Hill,NJ,Legal,Gloucester,08062
+Michael,Mikulski,khoffman@southamptonnj.org,Southampton Township,Southampton,NJ,Mayor,Burlington,08088
+Kathleen,D. Hoffman,khoffman@southamptonnj.org,Southampton Township,Southampton,NJ,Clerk,Burlington,08088
+George,M. Morris,N/A,Southampton Township,Southampton,NJ,Legal,Burlington,08088
+Sheena,C. Collum,clerksoffice@southorange.org,South Orange Village Twp,South Orange,NJ,Mayor,Essex,07079
+Ojetti,E. Davis,clerksoffice@southorange.org,South Orange Village Twp,South Orange,NJ,Clerk,Essex,07079
+Steven,C. Rother,N/A,South Orange Village Twp,South Orange,NJ,Legal,Essex,07079
+Neill,Clark,roxanne.landy@spartanj.org,Sparta Township,Sparta,NJ,Mayor,Sussex,07871
+Roxanne,Landy,roxanne.landy@spartanj.org,Sparta Township,Sparta,NJ,Clerk,Sussex,07871
+Thomas,N. Ryan,N/A,Sparta Township,Sparta,NJ,Legal,Sussex,07871
+Matthew,Anesh,aantonides@southplainfieldnj.com,South Plainfield Borough,South Plainfield,NJ,Mayor,Middlesex,07080
+Amy,Antonides,aantonides@southplainfieldnj.com,South Plainfield Borough,South Plainfield,NJ,Clerk,Middlesex,07080
+Paul,Rizzo,N/A,South Plainfield Borough,South Plainfield,NJ,Legal,Middlesex,07080
+Jacqueline,Palmer,jservis@spotswoodboro.com,Spotswood Borough,Spotswood,NJ,Mayor,Middlesex,08880
+Jennie,Servis,jservis@spotswoodboro.com,Spotswood Borough,Spotswood,NJ,Clerk,Middlesex,08880
+Victoria,A. Flynn,N/A,Spotswood Borough,Spotswood,NJ,Legal,Middlesex,08880
+David,Frank,clerk@springfieldtownshipnj.org,Springfield Township (Burlington),Jobstown,NJ,Mayor,Burlington,08046
+Brandy,C. Boyington,clerk@springfieldtownshipnj.org,Springfield Township (Burlington),Jobstown,NJ,Clerk,Burlington,08046
+George,M. Morris,N/A,Springfield Township (Burlington),Jobstown,NJ,Legal,Burlington,08046
+Aaron,Lipsen,clerk@stocktonboronj.us,Stockton Borough,Stockton,NJ,Mayor,Hunterdon,08560
+Laurie,Courter,clerk@stocktonboronj.us,Stockton Borough,Stockton,NJ,Clerk,Hunterdon,08560
+Lisa,Maddox,N/A,Stockton Borough,Stockton,NJ,Legal,Hunterdon,08560
+Chris,Weber,linda.donnelly@springfield-nj.us,Springfield Township (Union),Springfield,NJ,Mayor,Union,07081
+Linda,M. Donnelly,linda.donnelly@springfield-nj.us,Springfield Township (Union),Springfield,NJ,Clerk,Union,07081
+Kraig,M. Dowd,N/A,Springfield Township (Union),Springfield,NJ,Legal,Union,07081
+Judith,M. Davies-Dunhour,dillone@shnj.org,Stone Harbor Borough,Stone Harbor,NJ,Mayor,Cape May,08210
+Emily,Dillon,dillone@shnj.org,Stone Harbor Borough,Stone Harbor,NJ,Clerk,Cape May,08210
+Marcus,H. Karavan,N/A,Stone Harbor Borough,Stone Harbor,NJ,Legal,Cape May,08210
+Robert,Henken,clerk@staffordnj.gov,Stafford Township,Manahawkin,NJ,Mayor,Ocean,08087
+Susan,Farrell,clerk@staffordnj.gov,Stafford Township,Manahawkin,NJ,Clerk,Ocean,08087
+Lauren,Staiger,N/A,Stafford Township,Manahawkin,NJ,Legal,Ocean,08087
+Melvin,R. Dickinson Jr.,assistantclerk@stowcreektwp.com,Stow Creek Township,Bridgeton,NJ,Mayor,Cumberland,08302
+Ronald,L. Campbell,assistantclerk@stowcreektwp.com,Stow Creek Township,Bridgeton,NJ,Clerk,Cumberland,08302
+Rebecca,J. Bertram,N/A,Stow Creek Township,Bridgeton,NJ,Legal,Cumberland,08302
+Linda,Hall,billbray@stratfordnj.org,Stratford Borough,Stratford,NJ,Mayor,Camden,08084
+Bill,Bray,billbray@stratfordnj.org,Stratford Borough,Stratford,NJ,Clerk,Camden,08084
+Stuart,Platt,N/A,Stratford Borough,Stratford,NJ,Legal,Camden,08084
+Mark,Hartman,mbrown@townshipoftabernacle-nj.gov,Tabernacle Township,Tabernacle,NJ,Mayor,Burlington,08090
+Maryalice,Brown,mbrown@townshipoftabernacle-nj.gov,Tabernacle Township,Tabernacle,NJ,Clerk,Burlington,08090
+William,Burns,N/A,Tabernacle Township,Tabernacle,NJ,Legal,Burlington,08090
+Joseph,Del Duca,clerk@tavistocknj.org,Tavistock Borough,Barrington,NJ,Mayor,Camden,08004
+Denise,Moules,clerk@tavistocknj.org,Tavistock Borough,Barrington,NJ,Clerk,Camden,08004
+Stuart,Platt,N/A,Tavistock Borough,Barrington,NJ,Legal,Camden,08004
+Elizabeth,Fagan,rlicatese@cityofsummit.org,Summit City,Summit,NJ,Mayor,Union,07901
+Rosemary,Licatese,rlicatese@cityofsummit.org,Summit City,Summit,NJ,Clerk,Union,07901
+Matthew,Giacobbe,N/A,Summit City,Summit,NJ,Legal,Union,07901
+Francis,R. Hodgson Sr.,BoroughClerk@surfcitynj.org,Surf City Borough,Surf City,NJ,Mayor,Ocean,08008
+Christine,Hannemann,BoroughClerk@surfcitynj.org,Surf City Borough,Surf City,NJ,Clerk,Ocean,08008
+Christopher,J. Connors,N/A,Surf City Borough,Surf City,NJ,Legal,Ocean,08008
+Michael,Pagan,clerk@teanecknj.gov,Teaneck Township,Teaneck,NJ,Mayor,Bergen,07666
+Doug,Ruccione,clerk@teanecknj.gov,Teaneck Township,Teaneck,NJ,Clerk,Bergen,07666
+Scott,Salmon,N/A,Teaneck Township,Teaneck,NJ,Legal,Bergen,07666
+Robert,Holowach,tsmith@sussexboro.com,Sussex Borough,Sussex,NJ,Mayor,Sussex,07885
+Antoinette,Smith,tsmith@sussexboro.com,Sussex Borough,Sussex,NJ,Clerk,Sussex,07885
+Francis,McGovern,N/A,Sussex Borough,Sussex,NJ,Legal,Sussex,07885
+Mark,Zinna,ostovall@tenafly.net,Tenafly Borough,Tenafly,NJ,Mayor,Bergen,07670
+Omar,Stovall,ostovall@tenafly.net,Tenafly Borough,Tenafly,NJ,Clerk,Bergen,07670
+Wendy,Rubinstein,N/A,Tenafly Borough,Tenafly,NJ,Legal,Bergen,07670
+Thomas,W. Fromm,lelder@swedesboro-nj.us,Swedesboro Borough,Swedesboro,NJ,Mayor,Gloucester,08096
+Lois,M. Elder,lelder@swedesboro-nj.us,Swedesboro Borough,Swedesboro,NJ,Clerk,Gloucester,08096
+Timothy,Scaffidi,N/A,Swedesboro Borough,Swedesboro,NJ,Legal,Gloucester,08096
+John,P. Watt,municipalclerk@teterboronj.org,Teterboro Borough,Teterboro,NJ,Mayor,Bergen,07601
+Virginia,A. Alcuri,municipalclerk@teterboronj.org,Teterboro Borough,Teterboro,NJ,Clerk,Bergen,07601
+Matthew,S. Rogers,N/A,Teterboro Borough,Teterboro,NJ,Legal,Bergen,07601
+Matthew,S. Rogers,N/A,"510 Route 46 W, Municipal Building",Teterboro,NJ,Legal,Morris,07601
+William,Voyce,jlader@tewksburytwp.net,169 Old Turnpike Road,Califon,NJ,Mayor,Morris,07830
+Jennifer,Ader,jlader@tewksburytwp.net,169 Old Turnpike Road,Califon,NJ,Clerk,Morris,07830
+Justin,Marchetta,N/A,169 Old Turnpike Road,Califon,NJ,Legal,Morris,07830
+Shana,Goodchild,N/A,169 Old Turnpike Road,Califon,NJ,Legal,Morris,08271
+Susan,Marshall,jgleghorn@tuckertonborough.com,420 E Main Street,Tuckerton,NJ,Mayor,Hunterdon,08271
+Jenny,Gleghorn,jgleghorn@tuckertonborough.com,420 E Main Street,Tuckerton,NJ,Clerk,Hunterdon,08271
+Christopher,Connors,N/A,420 E Main Street,Tuckerton,NJ,Legal,Hunterdon,07753
+Charles,W. Cocuzza,boroughclerk@unionbeachnj.gov,650 Poole Avenue,Union Beach,NJ,Mayor,Monmouth,07753
+Anne Marie,Friscia,boroughclerk@unionbeachnj.gov,650 Poole Avenue,Union Beach,NJ,Clerk,Monmouth,07753
+John,T. Lane Jr.,N/A,650 Poole Avenue,Union Beach,NJ,Legal,Monmouth,07758
+Vito,Perillo,mhutchinson@tintonfalls.com,556 Tinton Avenue,Tinton Falls,NJ,Mayor,Monmouth,07758
+Michelle,Hutchinson,mhutchinson@tintonfalls.com,556 Tinton Avenue,Tinton Falls,NJ,Clerk,Hudson,07758
+Kevin,Starkey,N/A,556 Tinton Avenue,Tinton Falls,NJ,Legal,Hudson,07758
+Charles,W. Terefenko,N/A,556 Tinton Avenue,Tinton Falls,NJ,Legal,Hudson,08755
+Daniel,Rodrick,mcruoglio@tomsrivertownship.com,"33 Washington Street, PO Box 728",Toms River,NJ,Mayor,Hudson,08755
+Michael,C. Cruoglio,mcruoglio@tomsrivertownship.com,"33 Washington Street, PO Box 728",Toms River,NJ,Clerk,Bergen,08755
+Gregory,McGuckin,N/A,"33 Washington Street, PO Box 728",Toms River,NJ,Legal,Bergen,08755
+Scott,Tirella,N/A,"33 Washington Street, PO Box 728",Toms River,NJ,Legal,Bergen,07097
+Brian,P. Stack,hrosario@ucnj.com,3715 Palisade Avenue,Union City,NJ,Mayor,Passaic,07097
+Hilda,I. Rosario,hrosario@ucnj.com,3715 Palisade Avenue,Union City,NJ,Clerk,Passaic,07097
+Donald,Scarinci,N/A,3715 Palisade Avenue,Union City,NJ,Legal,Passaic,07512
+John,Coiro,jwassel@totowanj.org,537 Totowa Road,Totowa,NJ,Mayor,Hunterdon,07512
+Joseph,Wassel,jwassel@totowanj.org,537 Totowa Road,Totowa,NJ,Clerk,Hunterdon,07512
+Kristin,Corrado,N/A,537 Totowa Road,Totowa,NJ,Legal,Hunterdon,08827
+David,DeGiralamo,clerk@uniontwp-hcnj.org,140 Perryville Road,Hampton,NJ,Mayor,Mercer,08827
+Ella,M. Ruta,clerk@uniontwp-hcnj.org,140 Perryville Road,Hampton,NJ,Clerk,Mercer,08827
+Susan,Sharpe,N/A,140 Perryville Road,Hampton,NJ,Legal,Mercer,08608
+Reed,Gusciora,bgarcia@trentonnj.org,319 E State Street,Trenton,NJ,Mayor,Union,08608
+Brandon,Garcia,bgarcia@trentonnj.org,319 E State Street,Trenton,NJ,Clerk,Union,08608
+Wesley,Bridges,N/A,319 E State Street,Trenton,NJ,Legal,Union,08608
+Adam,W. Cruz,N/A,319 E State Street,Trenton,NJ,Legal,Monmouth,07083
+Manuel,Figueiredo,ebirch@uniontownship.com,1976 Morris Avenue,Union,NJ,Mayor,Monmouth,07083
+Eileen,Birch,ebirch@uniontownship.com,1976 Morris Avenue,Union,NJ,Clerk,Monmouth,07083
+Daniel,Antonelli,N/A,1976 Morris Avenue,Union,NJ,Legal,Atlantic,08330
+Don,Travisano,N/A,1976 Morris Avenue,Union,NJ,Legal,Atlantic,08330
+James,Crilley,rspoltore-ud@comcast.net,1325 Highway 77,Seabrook,NJ,Mayor,Atlantic,08330
+Roy,Spoltore,rspoltore-ud@comcast.net,1325 Highway 77,Seabrook,NJ,Clerk,Atlantic,08406
+Rocco,J. Tedesco,N/A,1325 Highway 77,Seabrook,NJ,Legal,Burlington,08406
+Lance,Landgraf Jr.,Lhand@ventnorcity.org,6201 Atlantic Avenue,Ventnor,NJ,Mayor,Burlington,08406
+Lisa,H. Hand,Lhand@ventnorcity.org,6201 Atlantic Avenue,Ventnor,NJ,Clerk,Burlington,08406
+Blaney,Donohue & Weinberg,N/A,6201 Atlantic Avenue,Ventnor,NJ,Legal,Mercer,08355
+Tom,Ciccarone,N/A,6201 Atlantic Avenue,Ventnor,NJ,Legal,Mercer,08355
+Dr. Robert,Frascella,dtyler@uftnj.com,314 Route 539,Cream Ridge,NJ,Mayor,Mercer,08355
+Dana,L. Tyler,dtyler@uftnj.com,314 Route 539,Cream Ridge,NJ,Clerk,Union,08355
+Dennis,A. Collins,N/A,314 Route 539,Cream Ridge,NJ,Legal,Union,07044
+Anthony,Rossi,mgianattasio@vernontwp.com,21 Church Street,Vernon,NJ,Mayor,Union,07044
+Marcy,Gianattasio,mgianattasio@vernontwp.com,21 Church Street,Vernon,NJ,Clerk,Sussex,07044
+Joshua,Zielinski,N/A,21 Church Street,Vernon,NJ,Legal,Sussex,07044
+Tina,Kraus,N/A,21 Church Street,Vernon,NJ,Legal,Sussex,07458
+Edward,Meschi,uptclerk@hotmail.com,431 Route 77,Elmer,NJ,Mayor,Salem,07458
+Linda,R. Stephens,uptclerk@hotmail.com,431 Route 77,Elmer,NJ,Clerk,Salem,07458
+Marla,DeMarcantonio,N/A,431 Route 77,Elmer,NJ,Legal,Salem,07458
+Christopher,Tamburro,jkiernan@veronanj.org,600 Bloomfield Avenue,Verona,NJ,Mayor,Essex,07044
+Jennifer,Kiernan,jkiernan@veronanj.org,600 Bloomfield Avenue,Verona,NJ,Clerk,Essex,07044
+Brian,Aloia,N/A,600 Bloomfield Avenue,Verona,NJ,Legal,Essex,07044
+Joseph,O. D’Arco,N/A,600 Bloomfield Avenue,Verona,NJ,Legal,Essex,07044
+Arman,Fardanesh,jconvertini@usrtoday.org,376 W Saddle River Road,Upper Saddle River,NJ,Mayor,Bergen,07458
+Joy,Convertini,jconvertini@usrtoday.org,376 W Saddle River Road,Upper Saddle River,NJ,Clerk,Bergen,07458
+Robert,Regan,N/A,376 W Saddle River Road,Upper Saddle River,NJ,Legal,Bergen,07458
+Theodore,Preusch,N/A,376 W Saddle River Road,Upper Saddle River,NJ,Legal,Bergen,07458
+David,Holeman Jr.,gardensvg@optonline.net,337 South Salem Street,Victory Gardens,NJ,Mayor,Morris,07871
+Deborah,Evans,gardensvg@optonline.net,337 South Salem Street,Victory Gardens,NJ,Clerk,Morris,07871
+Philip,Feintuch,N/A,337 South Salem Street,Victory Gardens,NJ,Legal,Morris,07871
+Jay,Newman,clerk@uppertownship.com,"2100 Tuckahoe Road, PO Box 205",Tuckahoe,NJ,Mayor,Cape May,08271
+Joanne,R. Herron,clerk@uppertownship.com,"2100 Tuckahoe Road, PO Box 205",Tuckahoe,NJ,Clerk,Cape May,08271
+Anthony,Monzo,N/A,"2100 Tuckahoe Road, PO Box 205",Tuckahoe,NJ,Legal,Cape May,08271
+Gary,DeMarzo,N/A,"2100 Tuckahoe Road, PO Box 205",Tuckahoe,NJ,Legal,Cape May,08271
+Anthony,R. Fanucci,kpetrosky@vinelandcity.org,"640 East Wood Street, PO Box 1508",Vineland,NJ,Mayor,Cumberland,08360
+Keith,Petrosky,kpetrosky@vinelandcity.org,"640 East Wood Street, PO Box 1508",Vineland,NJ,Clerk,Cumberland,08360
+Richard,P. Tonetta,N/A,"640 East Wood Street, PO Box 1508",Vineland,NJ,Legal,Cumberland,08360
+Robert,E. Dickenson Jr.,N/A,"640 East Wood Street, PO Box 1508",Vineland,NJ,Legal,Cumberland,08360
+Michael,Mignogna,clerk@voorheesnj.com,2400 Voorhees Town Center,Voorhees,NJ,Mayor,Camden,08043
+Dee,Ober,clerk@voorheesnj.com,2400 Voorhees Town Center,Voorhees,NJ,Clerk,Camden,08043
+Christopher,Long,N/A,2400 Voorhees Town Center,Voorhees,NJ,Legal,Camden,08043
+Stephen,Steglik,N/A,2400 Voorhees Town Center,Voorhees,NJ,Legal,Camden,08043
+Daniel,Mahler,falone@wanaqueborough.com,579 Ringwood Avenue,Wanaque,NJ,Mayor,Passaic,07463
+Katherine,Falone,falone@wanaqueborough.com,579 Ringwood Avenue,Wanaque,NJ,Clerk,Passaic,07463
+Anthony,Fiorello,N/A,579 Ringwood Avenue,Wanaque,NJ,Legal,Passaic,07463
+Paul,Carelli,N/A,579 Ringwood Avenue,Wanaque,NJ,Legal,Passaic,07463
+Thomas,A. Giordano,khalewicz@waldwicknj.org,63 Franklin Turnpike,Waldwick,NJ,Mayor,Bergen,07495
+Kelley,Halewicz,khalewicz@waldwicknj.org,63 Franklin Turnpike,Waldwick,NJ,Clerk,Bergen,07495
+Craig,Bossong,N/A,63 Franklin Turnpike,Waldwick,NJ,Legal,Bergen,07495
+Steven,Neale,N/A,63 Franklin Turnpike,Waldwick,NJ,Legal,Bergen,07495
+William,Gaechter,mmorales@wantagetwp-nj.org,888 Route 23,Wantage,NJ,Mayor,Sussex,07461
+Melissa,Morales,mmorales@wantagetwp-nj.org,888 Route 23,Wantage,NJ,Clerk,Sussex,07461
+Glenn,Kienz,N/A,888 Route 23,Wantage,NJ,Legal,Sussex,07461
+Michael,Restel,N/A,888 Route 23,Wantage,NJ,Legal,Sussex,07461
+Kevin,P. Orender,clerk@townshipofwall.com,2700 Allaire Road,Wall,NJ,Mayor,Monmouth,07719
+Roberta,Lang,clerk@townshipofwall.com,2700 Allaire Road,Wall,NJ,Clerk,Monmouth,07719
+Sean,Kean,N/A,2700 Allaire Road,Wall,NJ,Legal,Monmouth,07719
+Jeffry,L. Bertrand,N/A,2700 Allaire Road,Wall,NJ,Legal,Monmouth,07719
+Victor,J. Sordillo,creese@warrennj.org,"46 Mountain Boulevard, Second Floor",Warren,NJ,Mayor,Somerset,07059
+Cathy,Reese,creese@warrennj.org,"46 Mountain Boulevard, Second Floor",Warren,NJ,Clerk,Somerset,07059
+William,Willard,N/A,"46 Mountain Boulevard, Second Floor",Warren,NJ,Legal,Somerset,07059
+Mark,M. Krane,N/A,"46 Mountain Boulevard, Second Floor",Warren,NJ,Legal,Somerset,07059
+Melissa,Dabal,aantonio@wallingtonnj.org,24 Union Boulevard,Wallington,NJ,Mayor,Bergen,07054
+Ace,Antonio,aantonio@wallingtonnj.org,24 Union Boulevard,Wallington,NJ,Clerk,Bergen,07054
+Richard,Allen,N/A,24 Union Boulevard,Wallington,NJ,Legal,Bergen,07054
+Jennifer,Appice,N/A,24 Union Boulevard,Wallington,NJ,Legal,Bergen,07054
+Ethel,Conry,lcourter@washingtonboro-nj.org,100 Belvidere Avenue,Washington,NJ,Mayor,Warren,07882
+Laurie,A. Courter,lcourter@washingtonboro-nj.org,100 Belvidere Avenue,Washington,NJ,Clerk,Warren,07882
+Erik,Peterson,N/A,100 Belvidere Avenue,Washington,NJ,Legal,Warren,07882
+Brian,Bond,N/A,100 Belvidere Avenue,Washington,NJ,Legal,Warren,07882
+Victor,J. Maglio,walpackclerk@live.com,PO Box 813,Sussex,NJ,Mayor,Sussex,07885
+Christine,M. Von Oesen,walpackclerk@live.com,PO Box 813,Sussex,NJ,Clerk,Sussex,07885
+Glenn,Kienz,N/A,PO Box 813,Sussex,NJ,Legal,Sussex,07885
+Peter,Calamari,switkowski@twpofwashington.us,350 Hudson Avenue,Twp of Washington,NJ,Mayor,Morris,07853
+Susan,Witkowski,switkowski@twpofwashington.us,350 Hudson Avenue,Twp of Washington,NJ,Clerk,Morris,07853
+Kenneth,Poller,N/A,350 Hudson Avenue,Twp of Washington,NJ,Legal,Morris,07853
+Mark,DiCarlo,N/A,350 Hudson Avenue,Twp of Washington,NJ,Legal,Morris,07853
+C. Leigh,Gadd Jr.,lhand@wtbcnj.org,2436 Route 563,Egg Harbor City,NJ,Mayor,Atlantic,08234
+Lisa,H. Hand,lhand@wtbcnj.org,2436 Route 563,Egg Harbor City,NJ,Clerk,Atlantic,08234
+Thomas,J. Coleman III,N/A,2436 Route 563,Egg Harbor City,NJ,Legal,Atlantic,08234
+Thomas,Giangiulio Jr.,clerk@waterfordtwp.org,2131 Auburn Avenue,Atco,NJ,Mayor,Camden,08002
+Dawn,Liedtka,clerk@waterfordtwp.org,2131 Auburn Avenue,Atco,NJ,Clerk,Camden,08002
+Laurie,Burns,cciallella@twp.washington.nj.us,523 Egg Harbor Road,Sewell,NJ,Mayor,Gloucester,08080
+Christine,Ciallella,cciallella@twp.washington.nj.us,523 Egg Harbor Road,Sewell,NJ,Clerk,Gloucester,08080
+Stuart,Platt,N/A,523 Egg Harbor Road,Sewell,NJ,Legal,Gloucester,08080
+Joseph,Russo,N/A,523 Egg Harbor Road,Sewell,NJ,Legal,Gloucester,08080
+Christopher,P. Vergano,margiottap@waynetownship.com,475 Valley Road,Wayne,NJ,Mayor,Passaic,07470
+Paul,Margiotta,margiottap@waynetownship.com,475 Valley Road,Wayne,NJ,Clerk,Passaic,07470
+Matthew,Giacobbe,N/A,475 Valley Road,Wayne,NJ,Legal,Passaic,07470
+Christopher,Tietjen,N/A,475 Valley Road,Wayne,NJ,Legal,Passaic,07470
+Matthew,Murello,dprobascoo@wtmorris.net,43 Schooley’s Mountain Road,Long Valley,NJ,Mayor,Morris,07840
+Denean,Probasco,dprobascoo@wtmorris.net,43 Schooley’s Mountain Road,Long Valley,NJ,Clerk,Morris,07840
+Dawn,Sullivan,N/A,43 Schooley’s Mountain Road,Long Valley,NJ,Legal,Morris,07840
+Charles,Daniel,N/A,43 Schooley’s Mountain Road,Long Valley,NJ,Legal,Morris,07840
+Richard,F. Turner,rfares@tow-nj.net,400 Park Avenue,Weehawken,NJ,Mayor,Hudson,07093
+Rola,Fares,rfares@tow-nj.net,400 Park Avenue,Weehawken,NJ,Clerk,Hudson,07093
+Richard,P. Venino,N/A,400 Park Avenue,Weehawken,NJ,Legal,Hudson,07093
+Giovanni,D. Ahmad,N/A,400 Park Avenue,Weehawken,NJ,Legal,Hudson,07093
+Robert,Klingel,twpclerk@washington-twp-warren.org,211 Route 31 North,Washington,NJ,Mayor,Warren,07882
+Ann,Kilduff,twpclerk@washington-twp-warren.org,211 Route 31 North,Washington,NJ,Clerk,Warren,07882
+Michael,B. Lavery,N/A,211 Route 31 North,Washington,NJ,Legal,Warren,07882
+Peter,H. deBoer Jr.,N/A,211 Route 31 North,Washington,NJ,Legal,Warren,07078
+Edith,G. Gil,EGil@watchungnj.gov,15 Mountain Boulevard,Watchung,NJ,Mayor,Somerset,07078
+Joseph,Sordillo,N/A,15 Mountain Boulevard,Watchung,NJ,Legal,Somerset,07078
+James,Damato,N/A,15 Mountain Boulevard,Watchung,NJ,Legal,Somerset,08089
+Jessica,S. Doheny,ksweeney@boroughofwenonoh.com,1 South West Avenue,Wenonah,NJ,Mayor,Gloucester,08089
+Karen,L. Sweeney,ksweeney@boroughofwenonoh.com,1 South West Avenue,Wenonah,NJ,Clerk,Gloucester,08089
+James,Cally,clerk@westamwelltwp.org,150 Rocktown-Lambertville Road,Lambertville,NJ,Mayor,Hunterdon,08535
+Maria,Andrews,clerk@westamwelltwp.org,150 Rocktown-Lambertville Road,Lambertville,NJ,Clerk,Hunterdon,08535
+Mark,Peck,N/A,150 Rocktown-Lambertville Road,Lambertville,NJ,Legal,Hunterdon,08535
+Ronald,Jubin,N/A,150 Rocktown-Lambertville Road,Lambertville,NJ,Legal,Hunterdon,08535
+Joseph,Tempesta Jr.,clerk@westcaldwell.com,30 Clinton Road,West Caldwell,NJ,Mayor,Essex,07006
+Joann,DeBlasis,clerk@westcaldwell.com,30 Clinton Road,West Caldwell,NJ,Clerk,Essex,07006
+Paul,G. Jemas,N/A,30 Clinton Road,West Caldwell,NJ,Legal,Essex,07006
+Nikole,H. Baltycki,N/A,30 Clinton Road,West Caldwell,NJ,Legal,Essex,07006
+Albio,Sires,aplaza@westnewyorknj.org,"428 60th Street, Room 2",West New York,NJ,Mayor,Hudson,07093
+Adelinny,Plaza,aplaza@westnewyorknj.org,"428 60th Street, Room 2",West New York,NJ,Clerk,Hudson,07093
+Angelo,Auteri,N/A,"428 60th Street, Room 2",West New York,NJ,Legal,Hudson,07093
+Luis,Baez,N/A,"428 60th Street, Room 2",West New York,NJ,Legal,Hudson,07093
+Carol,E. Sabo,tenteado@westcapemay.us,732 Broadway,West Cape May,NJ,Mayor,Cape May,08204
+Theresa,Enteado,tenteado@westcapemay.us,732 Broadway,West Cape May,NJ,Clerk,Cape May,08204
+Frank,Corrado,N/A,732 Broadway,West Cape May,NJ,Legal,Cape May,08204
+Susan,McCartney,kcarnevale@westorange.org,66 Main Street,West Orange,NJ,Mayor,Essex,07052
+Karen,J. Carnevale,kcarnevale@westorange.org,66 Main Street,West Orange,NJ,Clerk,Essex,07052
+Richard,Trenk,N/A,66 Main Street,West Orange,NJ,Legal,Essex,07052
+James,P. Abbott,N/A,66 Main Street,West Orange,NJ,Legal,Essex,07052
+James,P. Mehaffey,Ldehart@westdeptford.com,400 Crown Point Road,West Deptford,NJ,Mayor,Gloucester,08096
+Lee,DeHart,Ldehart@westdeptford.com,400 Crown Point Road,West Deptford,NJ,Clerk,Gloucester,08096
+Timothy,D. Scaffidi,N/A,400 Crown Point Road,West Deptford,NJ,Legal,Gloucester,08096
+Tyler,Rost,N/A,400 Crown Point Road,West Deptford,NJ,Legal,Gloucester,08096
+Matthew,J. Ksiazek,dfrederick@westwildwood.org,701 W Glenwood Avenue,West Wildwood,NJ,Mayor,Cape May,08260
+Donna,L. Frederick,dfrederick@westwildwood.org,701 W Glenwood Avenue,West Wildwood,NJ,Clerk,Cape May,08260
+Matthew,Lyons,N/A,701 W Glenwood Avenue,West Wildwood,NJ,Legal,Cape May,08260
+Janet,W. Tucci,csantos@westlongbranch.org,965 Broadway,West Long Branch,NJ,Mayor,Monmouth,07764
+Carolina,Santos,csantos@westlongbranch.org,965 Broadway,West Long Branch,NJ,Clerk,Monmouth,07764
+Gregory,S. Baxter,N/A,965 Broadway,West Long Branch,NJ,Legal,Monmouth,07764
+Jason,Gonter,N/A,965 Broadway,West Long Branch,NJ,Legal,Monmouth,07764
+Hemant,Marathe,ghuber@westwindsortwp.com,"271 Clarksville Road, PO Box 38",West Windsor,NJ,Mayor,Mercer,08550
+Gay,Huber,ghuber@westwindsortwp.com,"271 Clarksville Road, PO Box 38",West Windsor,NJ,Clerk,Mercer,08550
+Michael,W. Herbert,N/A,"271 Clarksville Road, PO Box 38",West Windsor,NJ,Legal,Mercer,08550
+Marlena,Schmid,N/A,"271 Clarksville Road, PO Box 38",West Windsor,NJ,Legal,Mercer,08550
+Michele,Dale,TwpClerk@WestMilford.org,1480 Union Valley Road,West Milford,NJ,Mayor,Passaic,07480
+William,Senande,TwpClerk@WestMilford.org,1480 Union Valley Road,West Milford,NJ,Clerk,Passaic,07480
+Fred,Semrau,N/A,1480 Union Valley Road,West Milford,NJ,Legal,Passaic,07480
+Sandy,Henley,wgibson@westampton.com,710 Rancocas Road,Westampton,NJ,Mayor,Burlington,08060
+Wendy,Gibson,wgibson@westampton.com,710 Rancocas Road,Westampton,NJ,Clerk,Burlington,08060
+Robert,Wright,N/A,710 Rancocas Road,Westampton,NJ,Legal,Burlington,08060
+Michelle,(Shelley) Brindle,townclerk@westfieldnj.gov,425 East Broad Street,Westfield,NJ,Mayor,Union,07090
+Maureen,Lawshe,townclerk@westfieldnj.gov,425 East Broad Street,Westfield,NJ,Clerk,Union,07090
+Thomas,C. Jardim,N/A,425 East Broad Street,Westfield,NJ,Legal,Union,07090
+James,H. Gildea,N/A,425 East Broad Street,Westfield,NJ,Legal,Union,07090
+Arnold,Hyndman,clerk@whitetwp-nj.com,555 CR 519,Belvidere,NJ,Mayor,Warren,07823
+Kathleen,R. Reinalda,clerk@whitetwp-nj.com,555 CR 519,Belvidere,NJ,Clerk,Warren,07823
+Brian,Tipton,N/A,555 CR 519,Belvidere,NJ,Legal,Warren,07823
+Fritz,H. Sims Jr.,rgiles@westville-nj.com,165 Broadway,Westville,NJ,Mayor,Gloucester,08093
+Ryan,J. Giles,rgiles@westville-nj.com,165 Broadway,Westville,NJ,Clerk,Gloucester,08093
+Timothy,D. Scaffidi,N/A,165 Broadway,Westville,NJ,Legal,Gloucester,08093
+Ernie,Troiano Jr.,lbrown@wildwoodnj.org,4400 New Jersey Avenue,Wildwood,NJ,Mayor,Cape May,08260
+Lisa,A. Brown,lbrown@wildwoodnj.org,4400 New Jersey Avenue,Wildwood,NJ,Clerk,Cape May,08260
+Steven,Moms,N/A,4400 New Jersey Avenue,Wildwood,NJ,Legal,Cape May,08260
+Ray,Arroyo,khughes@westwoodnj.gov,101 Washington Avenue,Westwood,NJ,Mayor,Bergen,07675
+Karen,Hughes,khughes@westwoodnj.gov,101 Washington Avenue,Westwood,NJ,Clerk,Bergen,07675
+Levi,Kool,N/A,101 Washington Avenue,Westwood,NJ,Legal,Bergen,07675
+Don,Cabrera,pfeketics@wildwoodcrest.org,6101 Pacific Avenue,Wildwood Crest,NJ,Mayor,Cape May,08260
+Patricia,A. Feketics,pfeketics@wildwoodcrest.org,6101 Pacific Avenue,Wildwood Crest,NJ,Clerk,Cape May,08260
+Ronald,Gelzunas,N/A,6101 Pacific Avenue,Wildwood Crest,NJ,Legal,Cape May,08260
+Constance,Mahon,N/A,6101 Pacific Avenue,Wildwood Crest,NJ,Legal,Cape May,08260
+Kenneth,Haeser,townshipclerk@weymouthnj.org,45 South Jersey Avenue,Dorothy,NJ,Mayor,Cumberland,08316
+Dorothy-Jo,Ayres,townshipclerk@weymouthnj.org,45 South Jersey Avenue,Dorothy,NJ,Clerk,Cumberland,08316
+Michael,Lario,N/A,45 South Jersey Avenue,Dorothy,NJ,Legal,Cumberland,08316
+Kaya,McKintosh,bbligen@willingboronj.gov,1 Rev. Dr. M. L. King Jr. Drive,Willingboro,NJ,Mayor,Burlington,08046
+Vacancy,N/A,bbligen@willingboronj.gov,1 Rev. Dr. M. L. King Jr. Drive,Willingboro,NJ,Clerk,Burlington,08046
+Maggie,McHugh,N/A,1 Rev. Dr. M. L. King Jr. Drive,Willingboro,NJ,Legal,Burlington,08046
+Dwayne,Harris,N/A,1 Rev. Dr. M. L. King Jr. Drive,Willingboro,NJ,Legal,Burlington,08046
+William,Chegwidden,cmuzzillo@whartonnj.com,10 Robert Street,Wharton,NJ,Mayor,Morris,07885
+Gabrielle,Evangelista,cmuzzillo@whartonnj.com,10 Robert Street,Wharton,NJ,Clerk,Morris,07885
+Roman,Hirniak,N/A,10 Robert Street,Wharton,NJ,Legal,Morris,07885
+Joseph,Kovalcik Jr.,N/A,10 Robert Street,Wharton,NJ,Legal,Morris,07885
+Joseph,Byrne,m.slowik@winfield-nj.org,12 Gulfstream Avenue,Winfield,NJ,Mayor,Union,07036
+Melanie,Slowik,m.slowik@winfield-nj.org,12 Gulfstream Avenue,Winfield,NJ,Clerk,Union,07036
+Renaud,Colicchio,N/A,12 Gulfstream Avenue,Winfield,NJ,Legal,Union,07036
+Marie,D. Lawrence,clerk@winslowtownship.com,125 S Route 73,Braddock,NJ,Mayor,Camden,08037
+Lisa,L. Dority,clerk@winslowtownship.com,125 S Route 73,Braddock,NJ,Clerk,Camden,08037
+Stuart,A. Platt,N/A,125 S Route 73,Braddock,NJ,Legal,Camden,08037
+Joseph,Gallagher,N/A,125 S Route 73,Braddock,NJ,Legal,Camden,08037
+Carlos,Rendo,clerk@wclnj.com,188 Pascack Road,Woodcliff Lake,NJ,Mayor,Bergen,07677
+Deborah,Dakin,clerk@wclnj.com,188 Pascack Road,Woodcliff Lake,NJ,Clerk,Bergen,07677
+John,Schettino,N/A,188 Pascack Road,Woodcliff Lake,NJ,Legal,Bergen,07677
+Tomas,Padilla,N/A,188 Pascack Road,Woodcliff Lake,NJ,Legal,Bergen,07677
+William,Pikolycky,clerk@boroughofwoodbine.net,501 Washington Avenue,Woodbine,NJ,Mayor,Cape May,08270
+Laurie,Boyd,clerk@boroughofwoodbine.net,501 Washington Avenue,Woodbine,NJ,Clerk,Cape May,08270
+Richard,Tonetta,N/A,501 Washington Avenue,Woodbine,NJ,Legal,Cape May,08270
+Tracy,Kallert,solivola@wpnj.us,5 Brophy Lane,Woodland Park,NJ,Mayor,Passaic,07424
+Sandra,Olivola,solivola@wpnj.us,5 Brophy Lane,Woodland Park,NJ,Clerk,Passaic,07424
+Albert,C. Buglione,N/A,5 Brophy Lane,Woodland Park,NJ,Legal,Passaic,07424
+Samuel,Yodice Jr.,N/A,5 Brophy Lane,Woodland Park,NJ,Legal,Passaic,07424
+John,E. McCormac,john.mitch@twp.woodbridge.nj.us,1 Main Street,Woodbridge,NJ,Mayor,Middlesex,07095
+John,McCormac,,,Woodbridge,NJ,Mayor,Middlesex,07095
+John,Mitch,john.mitch@twp.woodbridge.nj.us,,Woodbridge,NJ,Clerk,Middlesex,07095
+James,Nolan Jr.,,,Woodbridge,NJ,Legal Adm,Middlesex,07095
+Vito,Cimilluca,,,Woodbridge,NJ,,Woodbridge,07095
+William,DeGroff,,3943 Route 563 P.O. Box 388,Chatsworth,NJ,Mayor,Chatsworth,08019
+Maryalice,Brown,mbrown@woodlandtownship.org,,Woodland Twp.,NJ,Clerk,Woodland Twp.,08088
+William,Burns,,,Woodland Twp.,NJ,Legal Adm,Woodland Twp.,08088
+Kyle,Miller,,33 Delaware Street PO Box 180,Woodbury,NJ,Mayor,Woodbury,08096
+Cassidy,Swanson,cswanson@woodbury.nj.us,,Woodbury,NJ,Clerk,Woodbury,08096
+Timothy,Scaffidi,,,Woodbury,NJ,Legal Adm,Woodbury,08096
+John,Leech,,200 Cooper Avenue,Woodlynne,NJ,Mayor,Woodlynne,08107
+Joseph,Chukwueke,,,Woodlynne,NJ,Clerk,Woodlynne,08107
+Luis,Pastoriza,woodlynneclerk@comcast.net,,Woodlynne,NJ,Legal Adm,Woodlynne,08107
+Darryl,Rhone,,,Woodlynne,NJ,,Woodlynne,08107
+William,Packer,,500 Elm Avenue,Woodbury Hts.,NJ,Mayor,Woodbury Hts.,08097
+Shannon,Elton,rmc@bwhnj.com,,Woodbury Hts.,NJ,Clerk,Woodbury Hts.,08097
+Brian,Lozuke,,,Woodbury Hts.,NJ,Legal Adm,Woodbury Hts.,08097
+Victoria,Holmstrom,,,Woodbury Hts.,NJ,,Woodbury Hts.,08097
+Paul A.,Sarlo,,85 Humboldt Street,Wood-Ridge,NJ,Mayor,Wood-Ridge,07075
+Gina,Affuso,gaffuso@njwoodridge.org,,Wood-Ridge,NJ,Clerk,Wood-Ridge,07075
+Paul S.,Barbire,,,Wood-Ridge,NJ,Legal Adm,Wood-Ridge,07075
+Christopher,Eilert,,,Wood-Ridge,NJ,,Wood-Ridge,07075
+Joseph,Hiles,,25 West Avenue,Woodstown,NJ,Mayor,Woodstown,08098
+Cynthia,Dalessio,clerk@historicwoodstown.org,,Woodstown,NJ,Clerk,Woodstown,08098
+Joseph,DiNicola Jr.,,,Woodstown,NJ,Legal Adm,Woodstown,08098
+Donald,Cottrell,,21 Saylors Pond Road,Wrightstown,NJ,Mayor,Wrightstown,08533
+Freda H.,Gorman,freda.gorman@wrightstownborough.com,,Wrightstown,NJ,Clerk,Wrightstown,08533
+Kevin,Sheehan,,,Wrightstown,NJ,Legal Adm,Wrightstown,08533
+Natalie,Matthias,,120 Village Green Drive,Woolwich Twp.,NJ,Mayor,Woolwich Twp.,08085
+Jane,DiBella,jdibella@woolwichtwp.org,,Woolwich Twp.,NJ,Clerk,Woolwich Twp.,08085
+John,Alice,,,Woolwich Twp.,NJ,Legal Adm,Woolwich Twp.,08085
+Peter J.,Melchionne,,340 Franklin Avenue,Wyckoff,NJ,Mayor,Wyckoff,07481
+Nancy A.,Brown,wyckoffclerk@wyckoffnj.gov,,Wyckoff,NJ,Clerk,Wyckoff,07481
+David,Becker,,,Wyckoff,NJ,Legal Adm,Wyckoff,07481
+Fred,Tagliarini,,One Aberdeen Square,Aberdeen,NJ,Mayor,Monmouth,07747
+Melissa,Pfeifer,melissa.pfeifer@aberdeennj.org,One Aberdeen Square,Aberdeen,NJ,Clerk,Monmouth,07747
+Jonathan,Williams,,One Aberdeen Square,Aberdeen,NJ,Legal Mgr,Monmouth,07747
+Bryan A.,Russell,,125 Corlies Avenue,Allenhurst,NJ,Mayor,Monmouth,07711
+Donna M.,Campagna,dcampagna@allenhurstnj.org,125 Corlies Avenue,Allenhurst,NJ,Clerk,Monmouth,07711
+David,McLaughlin,,125 Corlies Avenue,Allenhurst,NJ,Legal Adm,Monmouth,07711
+Kimberly,Horton,,500 Mill Road,Absecon,NJ,Mayor,Atlantic,08201
+Carie A.,Crone,ccrone@abseconnj.org,500 Mill Road,Absecon,NJ,Clerk,Atlantic,08201
+William,Blaney,,500 Mill Road,Absecon,NJ,Legal Adm,Atlantic,08201
+Thomas C.,Fritts,,8 N Main St,Allentown,NJ,Mayor,Monmouth,08501
+Laurie A.,Roth,clerk@allentownboronj.com,8 N Main St,Allentown,NJ,Clerk,Monmouth,08501
+Greg,Cannon,,8 N Main St,Allentown,NJ,Legal Adm,Monmouth,08501
+Jim,Kiernan,,242 Little York-Mt. Pleasant Road,Milford,NJ,Mayor,Hunterdon,08848
+Michele,Bobrowski,clerk@alexandrianj.gov,242 Little York-Mt. Pleasant Road,Milford,NJ,Clerk,Hunterdon,08848
+Kara,Kaczynski,,242 Little York-Mt. Pleasant Road,Milford,NJ,Legal Adm,Hunterdon,08848
+P. Ed,McKelvey,,PO Box 425,Alloway,NJ,Mayor,Salem,08001
+Brittany,Vanaman,clerk@allowaytownship.com,PO Box 425,Alloway,NJ,Clerk,Salem,08001
+Linwood,Donelson,,PO Box 425,Alloway,NJ,Legal,Salem,08001
+Rosemary,Tuohy,,PO Box A,Allamuchy,NJ,Mayor,Warren,07820
+Anne Marie,Tracy,municipalclerk@allamuchynj.org,PO Box A,Allamuchy,NJ,Clerk,Warren,07820
+Richard,Beilin,,PO Box A,Allamuchy,NJ,Legal Adm,Warren,07820
+Joseph,Schocko,,1001 East Blvd,Alpha,NJ,Mayor,Warren,08865
+Donna L.,Messina,alphaclerk@alphaboronj.org,1001 East Blvd,Alpha,NJ,Clerk,Warren,08865
+Joseph,Tauriello,,1001 East Blvd,Alpha,NJ,Legal,Warren,08865
+Amy,Wilczynski,,500 W Crescent Ave,Allendale,NJ,Mayor,Bergen,07401
+Linda Louise,Cervino,lindacervino@allendalenj.gov,500 W Crescent Ave,Allendale,NJ,Clerk,Bergen,07401
+Raymond R.,Wiss,,500 W Crescent Ave,Allendale,NJ,Legal Adm,Bergen,07401
+Paul H.,Tomasko,,100 Church St,Alpine,NJ,Mayor,Bergen,07620
+Stephanie,Wehmann,swehmann@alpinenj.org,100 Church St,Alpine,NJ,Clerk,Bergen,07620
+Levi J.,Kool,,100 Church St,Alpine,NJ,Legal,Bergen,07620
+John A.,Morgan,,137 Main St,Andover,NJ,Mayor,Sussex,07821
+Beth,Brothman,clerk@andoverboroughnj.org,137 Main St,Andover,NJ,Clerk,Sussex,07821
+Frank,McGovern,,137 Main St,Andover,NJ,Legal Adm,Sussex,07821
+Robert,Jakubowski,,606 W. Nicholson Road,Audubon,NJ,Mayor,Camden,08106
+Danielle,Ingves,d.ingves@audubonnj.com,606 W. Nicholson Road,Audubon,NJ,Clerk,Camden,08106
+Sal,Siciliano,,606 W. Nicholson Road,Audubon,NJ,Legal Adm,Camden,08106
+Thomas D.,"Walsh, Jr.",,134 Newton-Sparta Road,Newton,NJ,Mayor,Sussex,07860
+Patricia,Bussow,PBussow@andovertwp.org,134 Newton-Sparta Road,Newton,NJ,Clerk,Sussex,07860
+Fred,Semrau,,134 Newton-Sparta Road,Newton,NJ,Legal Adm,Sussex,07860
+Lawrence E.,Pennock,,2 Road C,Audubon Park,NJ,Mayor,Camden,08107
+Dawn M.,Pennock,apclerk@audubonparknj.org,2 Road C,Audubon Park,NJ,Clerk,Camden,08107
+Stuart,Platt,,2 Road C,Audubon Park,NJ,Legal,Camden,08107
+John,Moor,,1 Municipal Plaza,Asbury Park,NJ,Mayor,Monmouth,07712
+Lisa,Esposito,lisa.esposito@cityofasburypark.com,1 Municipal Plaza,Asbury Park,NJ,Clerk,Monmouth,07712
+Frederick C.,Raffetto,,1 Municipal Plaza,Asbury Park,NJ,Legal Mgr,Monmouth,07712
+John,McCorristin,,3100 Dune Drive,Avalon,NJ,Mayor,Cape May,08202
+C. Danielle,Nollett,dnollett@avalonboro.org,3100 Dune Drive,Avalon,NJ,Clerk,Cape May,08202
+Nicole,Curio,,3100 Dune Drive,Avalon,NJ,Legal Adm,Cape May,08202
+Marty,Small Sr.,,1301 Bacharach Boulevard,Atlantic City,NJ,Mayor,Atlantic,08401
+Paula,Geletei,pgeletei@acnj.gov,1301 Bacharach Boulevard,Atlantic City,NJ,Clerk,Atlantic,08401
+Michael,Perugini,,1301 Bacharach Boulevard,Atlantic City,NJ,Legal,Atlantic,08401
+Edward R.,Bonanno,,301 Main St,Avon-By-The-Sea,NJ,Mayor,Monmouth,07717
+Anna,Bongiorno,abongiorno@avonbytheseanj.com,301 Main St,Avon-By-The-Sea,NJ,Clerk,Monmouth,07717
+Barry A.,Cooke,,301 Main St,Avon-By-The-Sea,NJ,Legal,Monmouth,07717
+Kerry,McGuigan,,10 E 7th St,Barnegat Light,NJ,Clerk,Ocean,08006
